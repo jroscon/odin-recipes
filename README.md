@@ -1,2 +1,2 @@
 # odin-recipes
-My first project create a basic html Recipe web
+My first project a basic html Recipe web
